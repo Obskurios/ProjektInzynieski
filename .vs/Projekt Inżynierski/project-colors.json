@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "006872af-43d6-6b1a-2662-7d3a684519fd": {
+      "ProjectGuid": "006872af-43d6-6b1a-2662-7d3a684519fd",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "24394f4a-32ab-1f45-ec85-d8d8608d4777": {
+      "ProjectGuid": "24394f4a-32ab-1f45-ec85-d8d8608d4777",
+      "DisplayName": "Unity.2D.SpriteShape.Runtime",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
